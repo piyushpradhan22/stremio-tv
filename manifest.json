@@ -19,7 +19,7 @@
     "catalog",
     {
       "idPrefixes": [
-        "yt"
+        "tt"
       ],
       "name": "stream",
       "types": [
@@ -30,5 +30,5 @@
   "types": [
     "TV"
   ],
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
