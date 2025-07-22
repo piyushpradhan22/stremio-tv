@@ -1,0 +1,34 @@
+{
+  "catalogs": [
+    {
+      "extra": [
+        {
+          "isRequired": false,
+          "name": "skip"
+        }
+      ],
+      "id": "TV",
+      "name": "TV",
+      "type": "TV"
+    }
+  ],
+  "description": "Addon which provides Live Youtube TV URL",
+  "id": "org.stremio.tv",
+  "name": "🎬YT_TV",
+  "resources": [
+    "catalog",
+    {
+      "idPrefixes": [
+        "yt"
+      ],
+      "name": "stream",
+      "types": [
+        "tv"
+      ]
+    }
+  ],
+  "types": [
+    "tv"
+  ],
+  "version": "0.0.1"
+}
