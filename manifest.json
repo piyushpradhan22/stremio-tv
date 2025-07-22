@@ -23,12 +23,12 @@
       ],
       "name": "stream",
       "types": [
-        "tv"
+        "TV"
       ]
     }
   ],
   "types": [
-    "tv"
+    "TV"
   ],
   "version": "0.0.1"
 }
