@@ -6,9 +6,6 @@
       "name" : "OTV Live 24x7",
       "description": "OTV Live 24x7",
       "genre" : "TV",
-      "year" : "2025",
-      "background": "https://odishatv.in/commondir/web/desktop/images/otv-Home.webp",
-      "releaseInfo": "2025",
-      "trailerStreams": []
+      "year" : "2025"
   }
 }
