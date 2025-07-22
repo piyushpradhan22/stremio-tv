@@ -18,6 +18,15 @@
   "resources": [
     "catalog",
     {
+      "name": "meta",
+      "types": [
+        "TV"
+      ],
+      "idPrefixes": [
+        "yt"
+      ]
+    },
+    {
       "idPrefixes": [
         "yt"
       ],
