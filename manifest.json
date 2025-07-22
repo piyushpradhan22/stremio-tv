@@ -9,7 +9,7 @@
       ],
       "id": "TV",
       "name": "Live TV",
-      "type": "movie"
+      "type": "TV"
     }
   ],
   "description": "Addon which provides Live Youtube TV URL",
@@ -19,16 +19,16 @@
     "catalog",
     {
       "idPrefixes": [
-        "tt"
+        "yt"
       ],
       "name": "stream",
       "types": [
-        "movie"
+        "TV"
       ]
     }
   ],
   "types": [
-    "movie"
+    "TV"
   ],
   "version": "0.0.3"
 }
