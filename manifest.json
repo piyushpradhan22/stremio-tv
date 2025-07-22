@@ -8,8 +8,8 @@
         }
       ],
       "id": "TV",
-      "name": "TV",
-      "type": "TV"
+      "name": "Live TV",
+      "type": "movie"
     }
   ],
   "description": "Addon which provides Live Youtube TV URL",
@@ -23,12 +23,12 @@
       ],
       "name": "stream",
       "types": [
-        "TV"
+        "movie"
       ]
     }
   ],
   "types": [
-    "TV"
+    "movie"
   ],
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
