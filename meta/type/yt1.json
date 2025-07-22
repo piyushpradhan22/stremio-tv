@@ -1,0 +1,10 @@
+{
+  "meta" : {
+    "id" : "yt1",
+    "type" : "TV",
+    "name" : "OTV LIVE",
+    "description" : "OTV Live 24x7"
+    "poster" : "https://odishatv.in/commondir/web/desktop/images/otv-Home.webp",
+    "generes" : ["TV", "News"]
+  }
+}
